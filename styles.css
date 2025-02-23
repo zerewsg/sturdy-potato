@@ -1,0 +1,16 @@
+.linear-gradient {
+   width: 500px;
+   height: 500px;
+    background-image: -webkit-linear-gradient( 80deg, blue, red);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.radial-gradient {
+    width: 500px;
+    height: 500px;
+    background-image:-webkit-radial-gradient(  yellow, green);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
